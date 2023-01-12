@@ -52,9 +52,12 @@
     padding: 16px 32px;
 }
 
+.repair-brands {
+    background: #F8F8F8;
+}
+
 .brand-catalog {
     padding-top: 24px;
-    background: #F8F8F8;
 }
 
 .brand-catalog__list {
